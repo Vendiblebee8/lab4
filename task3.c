@@ -4,7 +4,7 @@
 #include <fcntl.h>
 #include <sys/wait.h>
 
-#define INPUT_FILE "./input/if1"
+#define INPUT_FILE "./input/if2"
 
 int main(int argc, char *argv[]) {
     int input_fd, output_fd;
